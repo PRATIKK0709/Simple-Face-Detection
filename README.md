@@ -28,6 +28,4 @@ This Python script uses OpenCV and a Haar Cascade Classifier to detect faces in 
    - It will also save individual face images as `face_0.jpg`, `face_1.jpg`, and so on.
    - To close the visualization window, press any key.
 
-## License
 
-This project is licensed under the MIT License.
