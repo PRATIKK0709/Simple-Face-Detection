@@ -11,8 +11,8 @@ This Python script uses OpenCV and a Haar Cascade Classifier to detect faces in 
    - Clone the repository:
 
      ```
-     git clone https://github.com/YourUsername/YourRepositoryName.git
-     cd YourRepositoryName
+     git clone https://github.com/SyskeySK/Simple-Face-Detection.git
+     cd Simple-Face-Detection
      ```
 
 2. **Running the Script**:
